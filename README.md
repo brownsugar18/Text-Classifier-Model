@@ -1,1 +1,1 @@
-# Text-Classifier-Model
+This project implements a text classification model using deep learning techniques to analyze sentiment in movie reviews. The goal is to classify reviews as either positive or negative based on their textual content. We utilize the IMDB movie reviews dataset, a commonly used benchmark dataset for sentiment analysis tasks, to train and evaluate our model.
